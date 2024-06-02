@@ -1,0 +1,3220 @@
+fileFormatVersion: 2
+guid: 46ac01e5408da0848a456581b48ae0c4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: atlas-gamepad_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.04, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3c4ac3c51024c42b96891cab85bba7
+      internalID: -472613516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 660
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.04817731, y: 0.3134978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8f62aea6c23374695d5327cd1dffa3
+      internalID: 977872934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 660
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.23080167, y: 0.06078177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446a0d28e6d151546ba85b718f440608
+      internalID: 1941210476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 660
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.04, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2662faf610fb20488d3960e24e05bca
+      internalID: -1092316697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 660
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.2, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50e9351e7f8b2f4680c61f3dbb91fe8
+      internalID: -651434030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 660
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742c38c0bbfe426408445a8c7f0f5331
+      internalID: 1812935639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 660
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec57ab20cced5a4d94ec7fadb1af246
+      internalID: 1259608307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 660
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604e8d51cb7ff5c45a90c6a6a0e5fa48
+      internalID: 1266179241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_8
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 660
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3581bc958d532ae439d40e41fa421867
+      internalID: -852857761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_9
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 660
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d2f101215161c4ba1d77bbfa6108de
+      internalID: 2023230647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_10
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 660
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.04, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea24d029291b83499387a06efbe7446
+      internalID: 696143387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_11
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 660
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.2, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a823cb70066add438a1de6121864ea5
+      internalID: 609521144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_12
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 660
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ac116479574364d8d441b35b77aecb
+      internalID: 599879573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 594
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6760a721302f7e419d61108d364d654
+      internalID: -463451483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_14
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 594
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0af6336a35c4a4eadaa132cb85844f
+      internalID: -652439126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_15
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 594
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa010823a850c074399971a0d4e8262b
+      internalID: 1255416643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_16
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 594
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e3e4539af55c24bb6086bde92ddb76
+      internalID: 1488790525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_17
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 594
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7e58b9083aa2542abd1334b3142d56
+      internalID: -1444085704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_18
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 594
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ddfd1968f60ed4caba34319cf912c5
+      internalID: -455993909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_19
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 594
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a17988d0eb58443ad9aac7105b4f98
+      internalID: 1012547306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_20
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 594
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5457dd4c2b85d0b4c868ae1b470aef9f
+      internalID: 803081387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_21
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 594
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673768692e030fb4f8cd2085cce892de
+      internalID: 2017597131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_22
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 594
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf3328ece1c0aa428d09d33d80ed6ca
+      internalID: -92563535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_23
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 594
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71245cd3e391edf4f9e90dc65191fb4f
+      internalID: 898786339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_24
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 594
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ec56260eb121c4fa4976206bc8e223
+      internalID: -833873842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_25
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 594
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc62e6a88d28ba4ea12821c0f97b0ff
+      internalID: -1474147565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb1f6241ef2d2f45a2b9ae00c3b6913
+      internalID: -780429521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_27
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 528
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39b981978ebf7e40a6469b4236ecd15
+      internalID: 899062811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_28
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 528
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664a3d3366b57b14ab1358dcac299e11
+      internalID: -1567597024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_29
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 528
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73108461c36e93743a4dba9573d820db
+      internalID: 498244415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_30
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 528
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b99116737431941b403bfbc5b96255
+      internalID: -461593154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_31
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 528
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5625023d31b80245a1adbe594d3d09c
+      internalID: -363020901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_32
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 528
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b787a276356155d4aa82a74ef7ed8cc9
+      internalID: 215128097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_33
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 528
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b730429a0ec0e484e9dca2b56f976bbb
+      internalID: -668768481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_34
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 528
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdc8bf75b9cf5145a997a576a5aaae1
+      internalID: -1561500540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_35
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 528
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9592d8797f577499a1560d69f28ac4
+      internalID: 755815370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_36
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 528
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6915e4b30367343428a4ba68759c7545
+      internalID: -1335455469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_37
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 528
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a3c30fa7ac38f45945711efd9aa715
+      internalID: -104732343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_38
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 528
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5b69e50bc8ffc4db354ee0a9cd72f9
+      internalID: -1416724883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 462
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b23fde1b6f0664eb8d6b7be94ea9c8
+      internalID: -947502225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_40
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 462
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddc9d89e25d4844682c93b4683efc7d
+      internalID: 1029010773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_41
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 462
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc0cad821a84264c8488b347a59160d
+      internalID: 613070230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_42
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 462
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ba3bff587919945a164f658aa19d6b
+      internalID: -1989256672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_43
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 462
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65459c42fa497a4ca8d787741811119
+      internalID: 1810738117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_44
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 462
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e60cfdab961b1442adeede14a41feaf
+      internalID: 441429321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_45
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 462
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9244c9582a749b040be9c266f28f204f
+      internalID: 1607661584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_46
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 462
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11161bc84a9c04d409beb4427553cb1a
+      internalID: -1330955546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_47
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 462
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d2d485fecbccf4ba49fc6c5ce45cd9
+      internalID: -616169481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_48
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 462
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80767bc9b51bb55429f241ff3f291658
+      internalID: 1071209138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_49
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 462
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7550542255f5146439228c794dcceff2
+      internalID: 1492144869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_50
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 462
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79624c5ac567ac84f857ede451ada0b7
+      internalID: -1991729375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_51
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 462
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e92c73c0ee38840883833d7d0abf78
+      internalID: -91823514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae0d589b81d60b4693ee4347a6a0b47
+      internalID: 2089025865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_53
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 396
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a57cfc596f43246acc41ee942920f7
+      internalID: -89598718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_54
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 396
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ecf8717be8f4943b36e89596794a13
+      internalID: -813807699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_55
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 396
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9331dee0256eae94981d4c8cc2d6ae04
+      internalID: 214288118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_56
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 396
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3785f5277c38ec64d8b7a46f232f0c1d
+      internalID: -1684935797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_57
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 396
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39fbed066fa974419ed98535fc9198f
+      internalID: 1592639375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_58
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 396
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84392c69404b1554cba8784a00686a4a
+      internalID: 2001772544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_59
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 396
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0645d4d05635c644d9f77ecfad53c44d
+      internalID: -826918154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_60
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 396
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abce7af9e5fb63e4c94a292291f1f089
+      internalID: -2105523143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_61
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 396
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a6d2ad88bcc61469bbb032cb858d2d
+      internalID: 1147359451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_62
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 396
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cc6151a0ed9ba44915b5763713afec
+      internalID: -1707229556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_63
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 396
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bce79e1a438794fa23dcc43da6be35
+      internalID: -56069972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_64
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 396
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8f36f37d59ac04785625184e7f0f36
+      internalID: 1467203308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267699a108ca0b1499119878299fcb65
+      internalID: -1811682627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_66
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 330
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.15, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9417a5338a35a7743bfe4d9fce774681
+      internalID: -1504806994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_67
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 330
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.15, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86ec7c9170fe16498b3d6db184b127f
+      internalID: -1518602773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_68
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 330
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f830492fd826061418e0990970b48a13
+      internalID: -1221751924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_69
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 330
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ec733dbff82b04597b13e83ad34f1d
+      internalID: 2354872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_70
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 330
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222b8d4d5c762d648b9f96198d9001bb
+      internalID: 759164311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_71
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 330
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f377892a6d2b34a9aa3dc1f6d64def
+      internalID: -640142828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_72
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 330
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.15, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc42b1a86dbbd242b2974f3a517e27a
+      internalID: 414934842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_73
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 330
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d297eeb30bfde164aa6e5b6e6636b6e5
+      internalID: -33228251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_74
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 330
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fd2238d6f6fe446a64b7251769b5cb
+      internalID: -1186797979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_75
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 330
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6bf0b6976291b4eacfb60344fb8852
+      internalID: 255038936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_76
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 330
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489e8656c6554084ea8eefe672bbc296
+      internalID: 1498885241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_77
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 330
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1600b2780a6bd43859e3878dc3aa30
+      internalID: -1566178718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.15, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8314a4f8798cd4ea5b1047a522f402
+      internalID: 2026984295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_79
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 264
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78142263a38c5a24e9d67c464d5f3bb8
+      internalID: -68335613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_80
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 264
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a07b68c00c5c349ab3667677e21c53
+      internalID: 638000714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_81
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 264
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571a146dbe584af429753b7f58dabb24
+      internalID: -1622711099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_82
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 264
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c876e4742db065f43a0f88dd85c96455
+      internalID: 816814089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_83
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 264
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fd13862cc3c6d49b3851a132b0d04f
+      internalID: 1356578383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_84
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 264
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.15, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3387e56281e7b4da900147a9f4b2cc
+      internalID: -2112229275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_85
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 264
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 0.15, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b01b159c5014384285bdd50e6ba424c
+      internalID: -188113907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_86
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 264
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9ca65ce75bb6b4286457b9ed1405f8
+      internalID: 1241957365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_87
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 264
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724ac168696f58d43ad0eb397a6dbe60
+      internalID: -700430459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_88
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 264
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0635153b1fca5774da6b24e8103dffd1
+      internalID: 1710467121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_89
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 264
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b496102a38b4e7345bb6a21dfed5f84e
+      internalID: 1350524858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_90
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 264
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336cf8b06acd8c848b7d76feb01ac5b9
+      internalID: 826538122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e55a49977618c4db4590a78e843ba1
+      internalID: 1650936206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_92
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 198
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8e6f9e9b1df4943bd70bb166f005c3
+      internalID: -1191128492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_93
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 198
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c40539660eae146bbb29a4dcf52972
+      internalID: 995840828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_94
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 198
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495382c65d9eb1a4e8127d454296cd83
+      internalID: -731098285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_95
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 198
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e3f197834cba6478eadce8f009f257
+      internalID: 790170102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_96
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 198
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3c9178dfe205040a83cd451d510400
+      internalID: 880918283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_97
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 198
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29672757abb327b40aa71c0596e031e5
+      internalID: 549562137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_98
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 198
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7552d1344e29ff243935b0b14a58ea9b
+      internalID: -87333836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_99
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 198
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8c1ec273f3e2848b14ef1cd1ab2381
+      internalID: -2034646477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_100
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 198
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96809801ef3027c48a2c2623a442f7f7
+      internalID: 962125713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_101
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 198
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38709d4d62685964c8ea71e2f2f01c5e
+      internalID: -1812378718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_102
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 198
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d83260d00bec864685a1305b163208e
+      internalID: 1091878107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_103
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 198
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b26a7a6e373d0458c113f0ddbb35c4
+      internalID: -367264223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4100faf0a3f4a748b6d8cbda3b1c9ee
+      internalID: -2040560877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_105
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 132
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36b2412bd8f493498dceb773369638f
+      internalID: -47245217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_106
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 132
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23754b13276b3c74d95a2e67fd979009
+      internalID: -2018441442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_107
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 132
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f874903b2fba64b82721693e999750
+      internalID: 291040151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_108
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 132
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a8e2bebc44df44aac581a8b789722d
+      internalID: -1698477645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_109
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 132
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb872ad186454b9479f56f34adc84e52
+      internalID: 1451962237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_110
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 132
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c5744e7c43ab341befe6e37e98f63e
+      internalID: 204769663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_111
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 132
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c954618a62e9574d943d73829890667
+      internalID: -299510751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_112
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 132
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecaadb00d0da8d2438bd46d9951678fb
+      internalID: 627002197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_113
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 132
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f887cb00c8564c842802df3ff7d0957a
+      internalID: -666374414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_114
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 132
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18197a877fee4564fa73285697aba7fb
+      internalID: -1890781312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_115
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 132
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c45d0e13c9bb14b993e3ee5919d75e
+      internalID: 784011512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_116
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 132
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d59b0e89a48c0748a7da1b24039a5f9
+      internalID: -1133561431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef8650dd578fa149b84b8a465fa720b
+      internalID: -1616929531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_118
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 66
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17114e2545de45e4e80eed38a0210035
+      internalID: 1208394261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_119
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 66
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607050a18b7499e45b3fe93a0c4f0502
+      internalID: 587985167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_120
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 66
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7039554060a01594bbf2fdec30343381
+      internalID: 1411679769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_121
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 66
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d373641fb2f1c428662ea33bf237ed
+      internalID: 263129424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_122
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 66
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6149cd61a4774ae4888188903de12a4b
+      internalID: 1745455503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_123
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 66
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f909b197986b37429d388abe3fbcc65
+      internalID: -665052072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_124
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 66
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54df21493d622041968d2c5f2997ce7
+      internalID: -459858468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_125
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 66
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2b4e3a2e528094e8649d3d00168424
+      internalID: -1945367767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_126
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 66
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4528a1f1c7727f14193ad7897517b369
+      internalID: 1136205410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_127
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 66
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fc18053dc749f4f8ed0f5b64a63ac4
+      internalID: -2000456990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_128
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 66
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9ffe992395ddf48a88cbed96583310
+      internalID: 589447175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_129
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 66
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d58f83a7add884e922c075d1fe1afd
+      internalID: 865645776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33bafb3b2676d7489b0bc52471b15b8
+      internalID: -1911550835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_131
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a81de1fddbd5f348908fdaca6519521
+      internalID: -1806852824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_132
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796b246320aa5d546956a1b3344d8083
+      internalID: -1192082204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_133
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842fe844bb78f9c4d83625bef1cae247
+      internalID: 312840109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_134
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3356619f14c259f43be4ec9af80c7500
+      internalID: 1583161862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_135
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c01df2687411b6469db483d1fbdf091
+      internalID: -1937238343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_136
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc6831b047163348a24cab805cee4e8
+      internalID: -916166748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_137
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 0
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8cc1e2bce1dcb4cb538149b8f2d6a0
+      internalID: 219895276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_138
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c52e17f753e07469e917cebe47c016
+      internalID: -818774298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas-gamepad_139
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 0
+        width: 66
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb6ae423694d6d48935c6a1583df5d3
+      internalID: 1856873801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      atlas-gamepad_0: -472613516
+      atlas-gamepad_1: 977872934
+      atlas-gamepad_10: 696143387
+      atlas-gamepad_100: 962125713
+      atlas-gamepad_101: -1812378718
+      atlas-gamepad_102: 1091878107
+      atlas-gamepad_103: -367264223
+      atlas-gamepad_104: -2040560877
+      atlas-gamepad_105: -47245217
+      atlas-gamepad_106: -2018441442
+      atlas-gamepad_107: 291040151
+      atlas-gamepad_108: -1698477645
+      atlas-gamepad_109: 1451962237
+      atlas-gamepad_11: 609521144
+      atlas-gamepad_110: 204769663
+      atlas-gamepad_111: -299510751
+      atlas-gamepad_112: 627002197
+      atlas-gamepad_113: -666374414
+      atlas-gamepad_114: -1890781312
+      atlas-gamepad_115: 784011512
+      atlas-gamepad_116: -1133561431
+      atlas-gamepad_117: -1616929531
+      atlas-gamepad_118: 1208394261
+      atlas-gamepad_119: 587985167
+      atlas-gamepad_12: 599879573
+      atlas-gamepad_120: 1411679769
+      atlas-gamepad_121: 263129424
+      atlas-gamepad_122: 1745455503
+      atlas-gamepad_123: -665052072
+      atlas-gamepad_124: -459858468
+      atlas-gamepad_125: -1945367767
+      atlas-gamepad_126: 1136205410
+      atlas-gamepad_127: -2000456990
+      atlas-gamepad_128: 589447175
+      atlas-gamepad_129: 865645776
+      atlas-gamepad_13: -463451483
+      atlas-gamepad_130: -1911550835
+      atlas-gamepad_131: -1806852824
+      atlas-gamepad_132: -1192082204
+      atlas-gamepad_133: 312840109
+      atlas-gamepad_134: 1583161862
+      atlas-gamepad_135: -1937238343
+      atlas-gamepad_136: -916166748
+      atlas-gamepad_137: 219895276
+      atlas-gamepad_138: -818774298
+      atlas-gamepad_139: 1856873801
+      atlas-gamepad_14: -652439126
+      atlas-gamepad_15: 1255416643
+      atlas-gamepad_16: 1488790525
+      atlas-gamepad_17: -1444085704
+      atlas-gamepad_18: -455993909
+      atlas-gamepad_19: 1012547306
+      atlas-gamepad_2: 1941210476
+      atlas-gamepad_20: 803081387
+      atlas-gamepad_21: 2017597131
+      atlas-gamepad_22: -92563535
+      atlas-gamepad_23: 898786339
+      atlas-gamepad_24: -833873842
+      atlas-gamepad_25: -1474147565
+      atlas-gamepad_26: -780429521
+      atlas-gamepad_27: 899062811
+      atlas-gamepad_28: -1567597024
+      atlas-gamepad_29: 498244415
+      atlas-gamepad_3: -1092316697
+      atlas-gamepad_30: -461593154
+      atlas-gamepad_31: -363020901
+      atlas-gamepad_32: 215128097
+      atlas-gamepad_33: -668768481
+      atlas-gamepad_34: -1561500540
+      atlas-gamepad_35: 755815370
+      atlas-gamepad_36: -1335455469
+      atlas-gamepad_37: -104732343
+      atlas-gamepad_38: -1416724883
+      atlas-gamepad_39: -947502225
+      atlas-gamepad_4: -651434030
+      atlas-gamepad_40: 1029010773
+      atlas-gamepad_41: 613070230
+      atlas-gamepad_42: -1989256672
+      atlas-gamepad_43: 1810738117
+      atlas-gamepad_44: 441429321
+      atlas-gamepad_45: 1607661584
+      atlas-gamepad_46: -1330955546
+      atlas-gamepad_47: -616169481
+      atlas-gamepad_48: 1071209138
+      atlas-gamepad_49: 1492144869
+      atlas-gamepad_5: 1812935639
+      atlas-gamepad_50: -1991729375
+      atlas-gamepad_51: -91823514
+      atlas-gamepad_52: 2089025865
+      atlas-gamepad_53: -89598718
+      atlas-gamepad_54: -813807699
+      atlas-gamepad_55: 214288118
+      atlas-gamepad_56: -1684935797
+      atlas-gamepad_57: 1592639375
+      atlas-gamepad_58: 2001772544
+      atlas-gamepad_59: -826918154
+      atlas-gamepad_6: 1259608307
+      atlas-gamepad_60: -2105523143
+      atlas-gamepad_61: 1147359451
+      atlas-gamepad_62: -1707229556
+      atlas-gamepad_63: -56069972
+      atlas-gamepad_64: 1467203308
+      atlas-gamepad_65: -1811682627
+      atlas-gamepad_66: -1504806994
+      atlas-gamepad_67: -1518602773
+      atlas-gamepad_68: -1221751924
+      atlas-gamepad_69: 2354872
+      atlas-gamepad_7: 1266179241
+      atlas-gamepad_70: 759164311
+      atlas-gamepad_71: -640142828
+      atlas-gamepad_72: 414934842
+      atlas-gamepad_73: -33228251
+      atlas-gamepad_74: -1186797979
+      atlas-gamepad_75: 255038936
+      atlas-gamepad_76: 1498885241
+      atlas-gamepad_77: -1566178718
+      atlas-gamepad_78: 2026984295
+      atlas-gamepad_79: -68335613
+      atlas-gamepad_8: -852857761
+      atlas-gamepad_80: 638000714
+      atlas-gamepad_81: -1622711099
+      atlas-gamepad_82: 816814089
+      atlas-gamepad_83: 1356578383
+      atlas-gamepad_84: -2112229275
+      atlas-gamepad_85: -188113907
+      atlas-gamepad_86: 1241957365
+      atlas-gamepad_87: -700430459
+      atlas-gamepad_88: 1710467121
+      atlas-gamepad_89: 1350524858
+      atlas-gamepad_9: 2023230647
+      atlas-gamepad_90: 826538122
+      atlas-gamepad_91: 1650936206
+      atlas-gamepad_92: -1191128492
+      atlas-gamepad_93: 995840828
+      atlas-gamepad_94: -731098285
+      atlas-gamepad_95: 790170102
+      atlas-gamepad_96: 880918283
+      atlas-gamepad_97: 549562137
+      atlas-gamepad_98: -87333836
+      atlas-gamepad_99: -2034646477
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
